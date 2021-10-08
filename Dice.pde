@@ -1,7 +1,7 @@
 Die bruh;    
     void setup()
   {
-    
+    noLoop();
     size(800,800);
     frameRate(30);
     background(256,256,256);
