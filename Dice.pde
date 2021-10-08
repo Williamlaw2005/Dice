@@ -59,7 +59,7 @@ Die bruh;
         fill((int)(Math.random()*255));
         rect(diceX-50,diceY-50,tall+100,wide+100,15);
         fill(0);
-        System.out.println(value);
+     
         if(value == 1){
           ellipse(diceX+wide/2, diceY+tall/2,tall+20, wide+20);
         }
